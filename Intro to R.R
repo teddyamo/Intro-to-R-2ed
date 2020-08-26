@@ -1,6 +1,11 @@
 # R script to accompany pany Intro to R
 # Copy for teddyamo
-######################################################
+#
+#
+# Copy for teddyamo
+#
+# Customized by Teddyamo
+#################################################
 
 # You will see that you can put non-executable "comment" lines
 # in your script by putting "#" at the beginning of the lines.
